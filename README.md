@@ -2,13 +2,15 @@
 
 I’m a web developer who enjoys **tinkering, building ideas from scratch, and improving them over time**. I’ve been coding since **2020**, and most of what I’ve learned comes from real experience building things, both for myself and for clients.
 
-I mainly work on the web using **JavaScript and React**, with a strong focus on **UX/UI, creativity, and user-centred design**. I care a lot about how things look, feel, and flow, not just whether they technically work.
+I mainly work on the web using **JavaScript and NextJS**, with a strong focus on **UX/UI, creativity, and user-centred design**. I care a lot about how things look, feel, and flow, not just whether they technically work.
 
 A lot of my projects start small, then evolve through experimentation, feedback, and iteration. I enjoy the process of refining ideas until they’re simple, practical, and actually useful.
 
 ### What I work with
-- JavaScript & React  
-- HTML & CSS  
+- JavaScript, Typescript
+- MySQL, PostgreSQL
+- React
+- NextJs  
 - Basic backend concepts (auth, data, APIs)  
 
 ### How I like to build
